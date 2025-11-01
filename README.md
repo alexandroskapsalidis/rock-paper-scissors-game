@@ -3,3 +3,5 @@ The player chooses between rock (👊), paper (✋), or scissors (✌️), while
 The result (You Win!, You Lose!, or It's a Tie!) is displayed on the screen, along with both choices and the updated score for the player and the computer.
 
 ![image](https://github.com/user-attachments/assets/3db95e56-f570-4159-bca4-694bd11f7988)
+
+View project => https://alexandroskapsalidis.github.io/rock-paper-scissors-game/
