@@ -39,7 +39,7 @@ function playGame(playerChoice) {
   playerDisplay.textContent = playerChoice;
   computerDisplay.textContent = computerChoice;
   resultDisplay.textContent = result;
-  // We want the result text to change colol according to the result.
+  // We want the result text to change color according to the result.
   if (result === "YOU WIN!") {
     resultDisplay.classList.add("greenText");
     // Incrementing the player's score and updating the playerScoreDisplay.
