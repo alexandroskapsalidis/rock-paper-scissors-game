@@ -4,4 +4,4 @@ The result (You Win!, You Lose!, or It's a Tie!) is displayed on the screen, alo
 
 ![image](https://github.com/user-attachments/assets/3db95e56-f570-4159-bca4-694bd11f7988)
 
-[Live Demo 🌐] => https://alexandroskapsalidis.github.io/rock-paper-scissors-game/
+[Live Demo 🌐] => <a href="https://alexandroskapsalidis.github.io/rock-paper-scissors-game/index.html" target="_blank">Rock - Paper - Scissors</a>
